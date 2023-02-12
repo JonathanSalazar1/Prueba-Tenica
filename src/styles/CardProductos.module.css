@@ -1,0 +1,10 @@
+.titulo {
+	font-size: small;
+	font-weight: lighter;
+	text-transform: capitalize;
+	color: gray;
+}
+
+.contenido {
+	padding-top: 1rem;
+}
